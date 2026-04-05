@@ -1,2 +1,9 @@
-# Direct-Capital-Ratios---Preprint
-State governments allocate substantial funding to support entrepreneurship and innovation, typically channeling these dollars through nonprofit intermediary organizations. This paper introduces the Direct Capital Ratio as a metric for evaluating the efficiency.
+# Direct Capital Ratios in State Innovation Funding: Evidence from Pennsylvania
+
+### Abstract
+State governments allocate substantial funding to support entrepreneurship and innovation, typically channeling these dollars through nonprofit intermediary organizations. This paper introduces the Direct Capital Ratio as a metric for evaluating the efficiency of such intermediary models, defined as the proportion of state funding that reaches founders as direct investment capital. Using publicly available IRS Form 990 filings and Federal Audit Clearinghouse data, I analyze Pennsylvania's Ben Franklin Technology Partners network, finding that the Direct Capital Ratio has declined from approximately 42% in FY2023 to 25% in FY2025, with staff compensation now exceeding founder disbursements by over $3 million annually. Comparative analysis of Ohio's JumpStart network reveals similar patterns, suggesting structural rather than organization-specific dynamics. A recent field experiment by Kim, Kim, and Koning (2026) provides causal evidence that AI-enabled startups grow 1.9x faster while requiring 39.5% less external capital, fundamentally challenging the value proposition of high-overhead intermediary models. I propose a policy framework requiring 75% of state innovation funding to flow directly to founders as capital, with the remaining 25% allocated to lightweight coordination functions. This reallocation would increase the number of startups funded, accelerate job creation, and redeploy intermediary talent into the private sector companies that would now have capital to hire them.
+
+### View the Paper
+[**Click here to read the full PDF**] https://github.com/ajmail/Direct-Capital-Ratios---Preprint/blob/main/Direct%20Capital%20Ratio_AMatin.pdf
+---
+*This is a preprint currently under review at SSRN.*
